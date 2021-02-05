@@ -1,0 +1,85 @@
+.card1,.card2,.card3{display: flex;
+    width: 200px;
+    background-color:gray;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.fa-truck{
+    font-size: 45px !important;
+    margin-right: 10px;
+}
+.main-bu{
+    display: flex;
+    padding: 40px;
+    margin-top: 10px;
+    justify-content:space-around;
+    flex-wrap: wrap;}
+    .button1,.button2,.button3{
+        display: flex;
+        background-color: beige;
+        width: 300px;
+        height: 50px;
+        
+    justify-content: center;
+    cursor: pointer;
+    align-items: center;}
+      
+.main-bu:hover{
+    color: red;
+}
+    .ifram{display: flex;}
+
+    .stretched-link{
+        padding: 5px !important;
+    }
+    .container-fluid{
+
+    }
+    .navbar-nav{
+        background-color: blue !important;
+    }
+    .res{
+        text-align: center;
+        align-items: center;
+    }
+     .center-images{
+        
+        
+        display: flex;
+        flex-wrap: wrap;
+        justify-content:space-around;
+      
+    } 
+    .center-images{justify-content: space-around;
+    }
+    
+    .code-grphy{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .code-grphy{
+        justify-content: space-around;
+    }
+    .group-toggle{
+        justify-content: center !important;
+    }
+    .heading11{
+        border-radius: 2px;
+        height: 100px;
+        background-color: blue;
+        width: 230px;
+    }
+    .heading11{
+        justify-content: center;
+    }
+    .heading{
+        align-items: center;
+    }
+    .hhh{
+        display: flex !important;
+        justify-content: center;
+    }
